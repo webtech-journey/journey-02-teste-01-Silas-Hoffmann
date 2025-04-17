@@ -1,1 +1,3 @@
-Insira seu resumo aqui!
+GitHub é uma plataforma que permite o armazenamento, edição e compartilhamento de projetos com integração ao sistema Git. Por meio dela, é possível salvar e atualizar códigos de forma dinâmica e simultânea, facilitando o trabalho conjunto em um mesmo projeto. Essa colaboração é organizada principalmente através dos commits, que registram cada modificação no código, facilitando o controle de versões.
+
+Entre suas extensões, destacam-se o GitHub Classroom. Ele é voltado para o gerenciamento de organizações e turmas, sendo muito utilizado em contextos educacionais para distribuir tarefas e acompanhar o progresso dos alunos. Outra extenssão é o GitHub Codespaces, do qual oferece um ambiente de desenvolvimento completo, permitindo que desenvolvedores editem e executem seus códigos sem necessidade de configurações locais, o que torna o processo mais ágil e acessível.
